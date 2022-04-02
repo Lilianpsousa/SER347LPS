@@ -1,0 +1,11 @@
+Comandos git utilizados no experimento
+
+git clone https://github.com/SER347Lilian/SER-347-Lilian
+git status
+git add “Lista1”
+git add “Comandosgit”
+git status
+git commit -m “add txt”
+git pull
+git push
+
